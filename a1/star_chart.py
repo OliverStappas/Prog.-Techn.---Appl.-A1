@@ -1,10 +1,3 @@
-#
-# 20/20 excellent.
-# 
-# You have more comments than necessary.
-#
-# Generally good choices for additional functions.
-#
 """
 Oliver Stappas, 1730124
 Tuesday, February 5
